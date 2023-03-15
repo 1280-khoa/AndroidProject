@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DoAn</string>
+    <string name="th_m_v_m_i">Thêm vé mới</string>
+    <string name="gi_250000">Giá: 250000đ</string>
+    <string name="gi_10_00_12_00">Giờ: 10:00 - 12:00</string>
+    <string name="s_i_g_n_long_xuy_n"><![CDATA[Sài Gòn => Long Xuyên]]></string>
+    <string name="lo_i_xe_gi_ng_n_m">Loại Xe: Giường Nằm</string>
+    <string name="t_n_xe">Tên Xe</string>
+    <string name="ng_nh_p">Đăng Nhập</string>
+</resources>
